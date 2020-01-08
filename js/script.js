@@ -1,3 +1,8 @@
+setTimeout( function() {
+	location.href = 'rocket.html';
+}, 2000);
+
+
 var sayMyName = function (name) {
 	alert('My name is:' +name)
 }
