@@ -1,6 +1,6 @@
 setTimeout( function() {
-	location.href = 'rocket.html';
-}, 2000);
+	location.href = 'rockets.html';
+}, 1000);
 
 
 var sayMyName = function (name) {
