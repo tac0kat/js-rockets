@@ -1,10 +1,11 @@
 body{
-	font-family: 'helvetica', 'arial';
+	font-family: 'Play', sans-serif;
+
 }
 
 .left{
 	position: fixed;
-	background-color: aquamarine;
+	background-color: #38b9ff;
 	width: 50%;
 	height: 100%;
 	top: 0;
@@ -27,13 +28,13 @@ a.button{
 	transition: color 300ms;
 }
 a:hover{
-	color:red;
+	color: aquamarine;
 
 }
 
 .right{ 
 	position: fixed;
-	background-color: white;
+	background: url('../img/cloudbg.jpg') center;
 	width: 50%;
 	height: 100%;
 	top: 0;
